@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">StreetSafe</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">StreetSafe</string>
+    <string name="nav_header_subtitle">kartikeyagupta0211@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_map">map</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="pothole_images">Pothole Images</string>
+    <string name="pothole">Pothole</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pothole_image">Pothole Image</string>
+    <string name="location_title">Location Title</string>
+    <string name="address_will_appear_here">Address will appear here</string>
+    <string name="open_in_google_maps">Open in Google Maps</string>
+</resources>
