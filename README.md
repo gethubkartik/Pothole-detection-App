@@ -24,6 +24,24 @@ An Android application that allows users to detect, report, and visualize pothol
 
 ---
 
+## 🖼️ App Screenshots
+
+### 🏠 Home Page
+![Home Page](HomePage.jpeg)
+
+### 🗺️ Map Page
+![Map Page](MapPage.jpeg)
+
+### 📍 Maps Detail Page
+![Maps Detail Page](mapsDetailPage.jpeg)
+
+### 🧭 Navigation Page
+![Navigation Page](NavigationPage.jpeg)
+
+### 🖼️ App Logo
+![App Logo](Logo.jpeg)
+
+---
 ## 📱 App Workflow
 
 1. User captures pothole information from the app  
@@ -37,4 +55,8 @@ An Android application that allows users to detect, report, and visualize pothol
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/pothole-detection.git
+   git clone https://github.com/your-username/pothole-detection.gitmapsDetailPage.jpeg
+HomePage.jpeg
+Logo.jpeg
+MapPage.jpeg
+NavigationPage.jpeg ye page add katna h
