@@ -44,8 +44,8 @@ An Android application that allows users to detect, report, and visualize pothol
 
 <p align="center">
   <img src="HomePage.jpeg" width="220"/>
-  <img src="CameraPage.jpeg" width="220"/>
-  <img src="ResultPage.jpeg" width="220"/>
+  <img src="NavigationPage.jpeg" width="220"/>
+  <img src="MapPage.jpeg" width="220"/>
 </p>
 
 
