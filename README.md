@@ -23,33 +23,33 @@ An Android application that allows users to detect, report, and visualize pothol
 - **Maps:** Google Maps API  
 
 ---
-<p align="center">
+ 
 ## 🖼️ App Screenshots
 
 ### 🏠 Home Page
-<img src="HomePage.jpeg" width="250"/>
-
+ 
+<p align="center">
+  <img src="HomePage.jpeg" width="250"/>
+</p>
 ### 🗺️ Map Page
-<img src="MapPage.jpeg" width="250"/>
+ <p align="center">
+  <img src="MapPage.jpeg" width="250"/>
+</p>
 
 ### 📍 Maps Detail Page
-<img src="mapsDetailPage.jpeg" width="250"/>
-
+ <p align="center">
+  <img src="mapsDetailPage.jpeg" width="250"/>
+</p>
 ### 🧭 Navigation Page
-<img src="NavigationPage.jpeg" width="250"/>
-
+  <p align="center">
+  <img src="NavigationPage.jpeg" width="250"/>
+</p>
 ### 🖼️ App Logo
-<img src="Logo.jpeg" width="150"/>
-</p>
- ## 🖼️ App Screenshots
-
-<p align="center">
-  <img src="HomePage.jpeg" width="220"/>
-  <img src="NavigationPage.jpeg" width="220"/>
-  <img src="MapPage.jpeg" width="220"/>
+   <p align="center">
+  <img src="Logo.jpeg" width="250"/>
 </p>
 
-
+ 
 ---
 ## 📱 App Workflow
 
