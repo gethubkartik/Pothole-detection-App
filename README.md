@@ -23,7 +23,7 @@ An Android application that allows users to detect, report, and visualize pothol
 - **Maps:** Google Maps API  
 
 ---
-
+<p align="center">
 ## 🖼️ App Screenshots
 
 ### 🏠 Home Page
@@ -40,6 +40,7 @@ An Android application that allows users to detect, report, and visualize pothol
 
 ### 🖼️ App Logo
 <img src="Logo.jpeg" width="150"/>
+</p>
  ## 🖼️ App Screenshots
 
 <p align="center">
