@@ -24,31 +24,18 @@ An Android application that allows users to detect, report, and visualize pothol
 
 ---
  
-## 🖼️ App Screenshots
-
-### 🏠 Home Page
+## 🎬 App Flow Screens
+ 
  
 <p align="center">
   <img src="HomePage.jpeg" width="250"/>
-</p>
-### 🗺️ Map Page
- <p align="center">
   <img src="MapPage.jpeg" width="250"/>
-</p>
-
-### 📍 Maps Detail Page
- <p align="center">
   <img src="mapsDetailPage.jpeg" width="250"/>
-</p>
-### 🧭 Navigation Page
-  <p align="center">
   <img src="NavigationPage.jpeg" width="250"/>
-</p>
-### 🖼️ App Logo
-   <p align="center">
   <img src="Logo.jpeg" width="250"/>
+ 
+ 
 </p>
-
  
 ---
 ## 📱 App Workflow
